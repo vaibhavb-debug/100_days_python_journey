@@ -23,5 +23,10 @@ print("Let us use the for Loop\n")
 for character in name:
     print(character)
 
+for character in friend:
+    print(character)
+
+for character in apple:
+    print(character)
 
 
