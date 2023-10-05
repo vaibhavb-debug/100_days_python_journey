@@ -57,3 +57,4 @@ print(a.replace("Vaibhav","Kajal")
 print(a.split(" "))
 Heading = "introduction to js"
 print(Heading.capitalize())
+
