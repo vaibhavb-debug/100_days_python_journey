@@ -29,4 +29,19 @@ for character in friend:
 for character in apple:
     print(character)
 
+# DAy 11
+#Slicing and dicing operations on string.
+
+names = "Vaibhav,Kajal"
+print(names[0:7])
+print(len(names))
+fruit = "Mango"
+mangoLen = len(fruit)
+print(mangoLen)
+print(fruit[0:4])
+print(fruit[1:4])
+print(fruit[:5])
+print(fruit[0:-3])
+print(fruit[-4:-2])
+
 
