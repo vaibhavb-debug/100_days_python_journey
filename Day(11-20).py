@@ -29,7 +29,7 @@ for character in friend:
 for character in apple:
     print(character)
 
-# DAy 11
+# DAy 11 & 12
 #Slicing and dicing operations on string.
 
 names = "Vaibhav,Kajal"
@@ -44,4 +44,16 @@ print(fruit[:5])
 print(fruit[0:-3])
 print(fruit[-4:-2])
 
+# Day 13
 
+# Strings are immutable
+a = "!!!!Vaibhav!!!!!!!!!!"
+print(len(a))
+print(a)
+print(a.upper())
+print(a.lower())
+print(a.rstrip("!"))
+print(a.replace("Vaibhav","Kajal")
+print(a.split(" "))
+Heading = "introduction to js"
+print(Heading.capitalize())
